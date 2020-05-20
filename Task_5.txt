@@ -1,0 +1,10 @@
+Sleeping total duration: 131h 3min 31s
+Toileting total duration: 2h 20min 34s
+Showering total duration: 1h 34min 9s
+Breakfast total duration: 2h 58min 8s
+Grooming total duration: 2h 40min 42s
+Spare_Time/TV total duration: 142h 28min 55s
+Leaving total duration: 27h 44min 44s
+Lunch total duration: 5h 13min 31s
+Snack total duration: 0h 6min 1s
+
